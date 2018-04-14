@@ -1,0 +1,30 @@
+{
+    "name": "markdown-extension-pack",
+    "displayName": "Markdown Extension Pack",
+    "description": "Markdown All-In-One, from editing to exporting, features & helpers collection.",
+    "version": "0.0.1",
+    "icon": "logo.png",
+    "publisher": "jebbs",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "bugs": {
+      "url": "https://github.com/qjebbs/vscode-markdown-pack/issues"
+    },
+    "homepage": "https://github.com/qjebbs/vscode-markdown-pack",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/qjebbs/vscode-markdown-pack.git"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "goessner.mdmath",
+        "bierner.markdown-emoji",
+        "amoosbr.markdown-imsize",
+        "jebbs.markdown-extended",
+        "telesoho.vscode-markdown-paste-image",
+        "joshbax.mdhelper"
+    ]
+}
