@@ -16,7 +16,6 @@ Markdown All-In-One, includes extensions from editing to exporting, both feature
 - Helpers
     - [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)：
     Paste images, urls directly into markdown.
-    - [Markdown helper](https://marketplace.visualstudio.com/items?itemName=joshbax.mdhelper): Editing helpers. Toggle bold, italics, strikethrough, code inline, code block, blockquote, and table editings.
 
 ## License
 

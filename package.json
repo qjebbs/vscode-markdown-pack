@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Markdown All-In-One, from editing to exporting, features & helpers collection.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "logo.png",
     "publisher": "jebbs",
     "engines": {
