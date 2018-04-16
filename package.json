@@ -24,7 +24,6 @@
         "bierner.markdown-emoji",
         "amoosbr.markdown-imsize",
         "jebbs.markdown-extended",
-        "telesoho.vscode-markdown-paste-image",
-        "joshbax.mdhelper"
+        "telesoho.vscode-markdown-paste-image"
     ]
 }
