@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Markdown All-In-One, from editing to exporting, features & helpers collection.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "logo.png",
     "publisher": "jebbs",
     "engines": {
@@ -21,7 +21,7 @@
     ],
     "extensionDependencies": [ 
         "goessner.mdmath",
-        "bierner.markdown-emoji",
+        "bierner.markdown-mermaid",
         "amoosbr.markdown-imsize",
         "jebbs.markdown-extended",
         "telesoho.vscode-markdown-paste-image"
